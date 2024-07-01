@@ -25,8 +25,25 @@ namespace ConsoleApp1
             if (num1 > 0) { Console.WriteLine("The sign is: +"); }
 
             else { Console.WriteLine("The sign is : -"); };
+
+            //another answer
+
+            string num11 = "-20";
+            string num22 = "10";
+            Console.WriteLine(num11[0]);
+
+
+
+
+
+
+
+
+
+
+
             ///////////////////////////////
-           //2
+            //2
             int[] array = { 0, -1, 4 };
             Array.Sort(array);
 

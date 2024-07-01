@@ -1,0 +1,2 @@
+C:\Users\Orange\Desktop\Task5c# 1-7-2024\obj\Debug\Task5c# 1-7-2024.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Task5c# 1-7-2024\obj\Debug\Task5c# 1-7-2024.csproj.CoreCompileInputs.cache
